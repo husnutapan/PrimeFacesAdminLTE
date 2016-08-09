@@ -1,0 +1,3 @@
+# PrimeFacesAdminLTE
+
+WickedChart jar
