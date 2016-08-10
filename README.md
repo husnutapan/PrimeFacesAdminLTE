@@ -17,4 +17,9 @@
 * http://www.megafileupload.com/o68R/wickedcharts.rar
 
 
+## Screenshot
+*<img src='https://s9.postimg.org/5fhhr35gb/Admin_LTE1.png' border='0' alt='postimage' width="100%"/>
+
+
+
 
