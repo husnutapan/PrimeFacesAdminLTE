@@ -7,8 +7,8 @@
 
 
 ## Test this application on OpenShift 
-* *username* : github  
-* *password* : github
+* *username* : Mike  
+* *password* : Mike
 
 <a href="http://admin-kurtomerfaruk.rhcloud.com/Admin/login.xhtml"><img src="https://allclouds.net/wp-content/uploads/2015/08/OpenShift-Logo-e1440595191561.png"/></a>
 
@@ -18,7 +18,7 @@
 
 
 ## Screenshot
-*<img src='https://s9.postimg.org/5fhhr35gb/Admin_LTE1.png' border='0' alt='postimage' width="100%"/>
+*<img src='https://s9.postimg.org/5fhhr35gb/Admin_LTE1.png'/>
 
 
 
