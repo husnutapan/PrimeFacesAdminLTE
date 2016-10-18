@@ -5,6 +5,12 @@
 * *Application Servers* : Glassfish 4
 * *DB* : Mysql 5.x
 
+* *PrimeFaces Admin LTE*
+https://www.youtube.com/watch?v=v_DQ2tFV9kY
+
+* *PrimeFaces Admin LTE 2*
+https://www.youtube.com/watch?v=NyUYFgbF8DE
+
 
 ## Test this application on OpenShift 
 * *username* : Mike  
